@@ -14,6 +14,13 @@ export default [
     twitter: "aayushmau5",
   },
   {
+    name:"Sarthak Jaiswal",
+    github_username: "sarthak-19",
+    title:"Android Developer",
+    facebook:"",
+    twitter:"",
+  },
+  {
   	name: "Aaryan Porwal",
   	github_username: "aaryanporwal",
   	title: "Explorer",
